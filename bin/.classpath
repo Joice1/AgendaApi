@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="target/generated-sources/annotations/" kind="src" path=""/>
+	<classpathentry kind="src" path="target/generated-sources/annotations">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/joans/OneDrive/Área de Trabalho/JDK/workspace/lombok-1.18.38.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
