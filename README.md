@@ -4,7 +4,7 @@ Sistema de **Agenda Web** desenvolvido com foco em **boas práticas de arquitetu
 
 ## 🚀 Tecnologias Utilizadas
 
-- **Java 21 (LTS)** — lançado em **19 de setembro de 2023**, atualmente a versão LTS mais recente
+- **Java 21**
 - **Spring Boot**
 - **Arquitetura Limpa (Clean Architecture)**
 - **API RESTful**
@@ -27,7 +27,7 @@ Sistema de **Agenda Web** desenvolvido com foco em **boas práticas de arquitetu
 
 A documentação interativa da API está disponível via Swagger:
 
-http://localhost:8080/swagger-ui.html
+http://localhost:8082/swagger-ui.html
 
 bash
 Copiar código
@@ -71,6 +71,7 @@ Modularidade, testabilidade e escalabilidade
 Swagger para documentação automática da API
 
 🔜 Melhorias Futuras
+
  Autenticação e autorização 
 
  Notificações por e-mail
