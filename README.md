@@ -76,4 +76,4 @@ Swagger para documentação automática da API
 
  Notificações por e-mail
 
- Front‑end ( Angular)
+ Front‑end ( Angular) (https://github.com/Joice1/AgendaApi-Frontend)
